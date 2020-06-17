@@ -4,11 +4,11 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsocialgram.now.sh)
 
-###Technologies Used
+### Problem Statement
 
-ReactJs
-Apollo GraphQl
-React Hooks
-Apollo Server
-Firebase
-Hasura
+* ReactJs
+* Apollo GraphQl
+* React Hooks
+* Apollo Server
+* Firebase
+* Hasura
