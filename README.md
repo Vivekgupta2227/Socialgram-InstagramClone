@@ -4,7 +4,7 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsocialgram.now.sh)
 
-### Problem Statement
+### Technologies Used
 
 * ReactJs
 * Apollo GraphQl
