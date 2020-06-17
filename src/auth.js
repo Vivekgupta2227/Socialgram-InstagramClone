@@ -10,14 +10,14 @@ const provider = new firebase.auth.GoogleAuthProvider();
 
 // Find these options in your Firebase console
 firebase.initializeApp({
-    apiKey: "AIzaSyD0NfMw2aoHv_c9D_ywrX2BNDnscb5QrTI",
-    authDomain: "socialgram-react.firebaseapp.com",
-    databaseURL: "https://socialgram-react.firebaseio.com",
-    projectId: "socialgram-react",
-    storageBucket: "socialgram-react.appspot.com",
-    messagingSenderId: "238948592957",
-    appId: "1:238948592957:web:2de605b4b52f962e1ce954",
-    measurementId: "G-WRZQD8CEGE"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 });
 
 export const AuthContext=React.createContext()
